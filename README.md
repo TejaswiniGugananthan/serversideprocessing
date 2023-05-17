@@ -118,7 +118,9 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-### Home Page:
+### Server output:
+![Screenshot (14)](https://github.com/TejaswiniGugananthan/serversideprocessing/assets/121222763/b9b4014b-6ebf-4b0a-98f1-a09f326af33f)
+### Client output:
 ![Screenshot (81)](https://user-images.githubusercontent.com/121222763/234658155-316a8ab9-6d35-45a1-96d9-b0073737e2f4.png)
 ## Result:
 The program for implementing server side processing is completed successfully.
